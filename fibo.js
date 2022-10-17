@@ -41,4 +41,5 @@ disvis = (x,y,k) => {
 console.log(disvis(6,100,5));
 
 console.log("hahi");
+console.log("hahi huha");
 
